@@ -27,5 +27,9 @@ Tình mình đã vỡ đôi
 Em tiếc nuối thêm làm chi 
 Còn lại những giọt buồn trên mi 
 Mang những thanh âm kia cùng em đi
+<<<<<<< HEAD
 
 Cái này tuấn anh viết
+=======
+địt mẹ béo
+>>>>>>> c32a8a044bd855dc2ecb62615649656fa4222792
